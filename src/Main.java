@@ -14,14 +14,14 @@ public class Main {
 //            System.out.println("Случайное число: " + num);
 //        } while (num <= 1000);
 //        System.out.println("Число больше 1000: " + num);
-        int num = 1;
-        int sum = 0;
-        while (num <= 100){
-            sum += num;
-            num++;
-        }
-        System.out.println(sum);
-
+//        int num = 1;
+//        int sum = 0;
+//        while (num <= 100){
+//            sum += num;
+//            num++;
+//        }
+//        System.out.println(sum);
+//_________________________________________________________________________________________________________________________
 
 
     }
