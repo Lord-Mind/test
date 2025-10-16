@@ -23,6 +23,22 @@ public class Main {
 //        System.out.println(sum);
 //_________________________________________________________________________________________________________________________
 
+        int num = 1;
+        while (num <= 50){
+            if (num%2 == 0){
+                System.out.println(num);
+            }
+            num++;
+        }
 
+        int count = 0;
+        int num1 = 1;
+        do {
+            if (num1 % 7 == 0){
+                count++;
+            }
+            num1++;
+        } while (num1 <= 100);
+        System.out.println(count);
     }
 }
